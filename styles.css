@@ -1,0 +1,229 @@
+nav a {
+    text-decoration: none;
+}
+
+.hemsida-intro {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.centrerad {
+    text-align: center;
+}
+
+.slogan {
+    text-align: center;
+}
+
+.sidhuvud {
+    background-color: lightblue;
+    padding: 25px;
+    text-align: center;
+}
+
+.sidhuvud nav {
+    margin-bottom: 30px;
+}
+
+.sidhuvud nav a {
+    margin: 15px;
+    color: 333;
+    text-decoration: none;
+}
+
+.centrera {
+    text-align: center;
+}
+
+.stränder {
+    background-color: lightblue;
+    padding: 25px;
+    text-align: center;
+}
+
+.stränder nav {
+    margin-bottom: 30px;
+}
+
+.stränder nav a {
+    margin: 15px;
+    color: 333;
+    text-decoration: none;
+
+}
+
+.hemsida-stränder {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bar {
+    background-color: lightblue;
+    padding: 25px;
+    text-align: center;
+}
+
+.bar nav {
+    margin-bottom: 30px;
+}
+
+.bar nav a {
+    margin: 15px;
+    color: 333;
+    text-decoration: none;
+}
+
+.bar-hemsida {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.utflykter {
+    background-color: lightblue;
+    padding: 25px;
+    text-align: center;
+}
+
+.utflykter nav{
+    margin: bottom 30px;
+}
+
+.utflykter nav a {
+    margin: 15px;
+    color: 333;
+    text-decoration: none;
+}
+
+.hemsida-utflykter {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.bildcontainer {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.bildcontainer img {
+    width: 30%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.bildcontainer-strand1 {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.bildcontainer-strand1 img {
+    width: 30%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.bildcontainer-strand2 {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.bildcontainer-strand2 img{
+    width: 30%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.bildcontainer-resturanger3b {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.bildcontainer-resturanger3b img {
+    width: 30%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.bildcontainer-resturanger2b {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.bildcontainer-resturanger2b img {
+    width: 30%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.bildcontainer-utflykter1 {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.bildcontainer-utflykter1 img {
+    width: 30%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.bildcontainer-utflykter2 {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.bildcontainer-utflykter2 img {
+    width: 30%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.halsning-container {
+    background: white;
+    padding: 25px;
+    max-width: 400px;
+    margin: 40px auto;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.halsning-container h2 {
+    font-size: 24px;
+}
+
+.halsning-container p {
+    color: #555;
+    line-height: 1.5;
+}
+
+.halsning-container button {
+    background-color: black;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#halsning {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #d17b91;
+}
