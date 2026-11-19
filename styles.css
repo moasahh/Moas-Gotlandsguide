@@ -110,28 +110,28 @@ nav a {
     border-radius: 10px;
 }
 
-.bildcontainer-strand1 {
+.bildcontainer-strand3b1 {
     display: flex;
     justify-content: center;
     gap: 15px;
     flex-wrap: wrap;
 }
 
-.bildcontainer-strand1 img {
+.bildcontainer-strand3b1 img {
     width: 30%;
     height: 250px;
     object-fit: cover;
     border-radius: 10px;
 }
 
-.bildcontainer-strand2 {
+.bildcontainer-strand3b2 {
     display: flex;
     justify-content: center;
     gap: 15px;
     flex-wrap: wrap;
 }
 
-.bildcontainer-strand2 img{
+.bildcontainer-strand3b2 img{
     width: 30%;
     height: 250px;
     object-fit: cover;
