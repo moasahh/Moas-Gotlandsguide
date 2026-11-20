@@ -111,17 +111,17 @@ nav a {
 }
 
 .bildcontainer-strand3b1 {
-   display: flex;
+  display: flex;
     justify-content: center;
     gap: 15px
     flex-wrap: wrap;
 }
 
 .bildcontainer-strand3b1 img {
-   width: 30%
-    height: 250px;
+  width: 30%;
+    height: 250px
     object-fit: cover;
-    border-radius: 10px
+    border-radius: 10px;
 }
 
 .bildcontainer-strand3b2 {
