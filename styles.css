@@ -111,20 +111,17 @@ nav a {
 }
 
 div.bildcontainer-strand3b1 {
-    display: flex !important;
+    display: flex 
     justify-content: center;
-    align-items: center;
-    gap: 25px !important;
-    flex-wrap: nowrap;
+    gap: 15px;
+    flex-wrap: wrap;
 }
 
 div.bildcontainer-strand3b1 img {
-    width: 30% !important;
-    max-width: 350px;
-    height: 250px !important;
+    width: 30% 
+    height: 250px 
     object-fit: cover;
     border-radius: 10px;
-    display: block;
 }
 
 .bildcontainer-strand3b2 {
