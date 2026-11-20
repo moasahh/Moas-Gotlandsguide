@@ -117,7 +117,7 @@ nav a {
     flex-wrap: wrap;
 }
 
-div.bildcontainer-strand3b1 img {
+.bildcontainer-strand3b1 img {
    width: 30%;
     height: 250px;
     object-fit: cover;
