@@ -110,16 +110,16 @@ nav a {
     border-radius: 10px;
 }
 
-div.bildcontainer-strand3b1 {
-    display: flex 
+.bildcontainer-strand3b1 {
+    display: flex;
     justify-content: center;
     gap: 15px;
     flex-wrap: wrap;
 }
 
 div.bildcontainer-strand3b1 img {
-    width: 30% 
-    height: 250px 
+   width: 30%;
+    height: 250px;
     object-fit: cover;
     border-radius: 10px;
 }
