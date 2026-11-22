@@ -7,14 +7,6 @@ nav a {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.brödtext {
-    text-align: center
-}
-
-.slogan {
-    text-align: center;
-}
-
 .sidhuvud {
     background-color: lightblue;
     padding: 25px;
@@ -31,8 +23,8 @@ nav a {
     text-decoration: none;
 }
 
-.centrera {
-    text-align: center;
+.brödtext {
+    text-alaign: center;
 }
 
 .stränder {
